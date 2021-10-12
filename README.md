@@ -5,7 +5,7 @@ Adena Token -
 <b> 0x97594E465e6B4df48e58327f566a3F79E9274655 </b>
 
 Adena Distributor -
-<b> 0x6A4453D9EBC03192C1335f87ea3fede80Ef078B1 </b>
+<b> 0xCC5bDB2fe7ca71203aA0F7Be472534adAE82672b </b>
 
 TimeLock - 
 <b> 0x4A9f41045E76f694609b14558ccfc2eB7a494e81 </b>
