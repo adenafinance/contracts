@@ -1,5 +1,5 @@
 # contracts
-Contracts for adena.finance
+deployed contracts for adena.finance
 
 Adena Token - 
 <b> 0x97594E465e6B4df48e58327f566a3F79E9274655 </b>
